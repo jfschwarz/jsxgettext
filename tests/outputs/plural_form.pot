@@ -1,0 +1,5 @@
+#: inputs/plural_form.js:1
+msgid "You have a new message"
+msgid_plural "You have new messages"
+msgstr[0] ""
+msgstr[1] ""
