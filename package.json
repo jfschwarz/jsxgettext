@@ -2,10 +2,10 @@
   "author": "Zach Carter",
   "name": "jsxgettext",
   "description": "Extract gettext calls from JavaScript and EJS files",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zaach/jsxgettext.git"
+    "url": "git://github.com/jfschwarz/jsxgettext.git"
   },
   "main": "lib/jsxgettext.js",
   "bin": "lib/cli.js",
