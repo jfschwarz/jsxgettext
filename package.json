@@ -17,7 +17,7 @@
     "gettext-parser": "0.1.10",
     "nomnom": "1.5.2",
     "jade": "0.30.0",
-    "react-tools": ">=0.10.0"
+    "react-tools": "0.11.1"
   },
   "devDependencies": {
     "test": "*"
