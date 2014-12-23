@@ -32,6 +32,6 @@ Or from source:
        -k WORD, --keyword WORD    additional keyword to be looked for as a gettext alias
        -n WORD, --plural WORD     additional keyword to be looked for as a ngettext alias
        -j, --join-existing        join messages with existing file
-       -L NAME, --language NAME   recognise the specified language (JavaScript, EJS, Jinja)
+       -L NAME, --language NAME   recognise the specified language (JavaScript, EJS, Jinja, JSX)
 
 
